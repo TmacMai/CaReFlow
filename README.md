@@ -83,11 +83,13 @@ We thank the authors of "https://github.com/joshuaxiao98/ITHP", "https://github.
 ## Citation
 
 ```bibtex
-@inproceedings{careflow2026,
-  title={{CaReFlow}: Cyclic Adaptive Rectified Flow for Multimodal Fusion},
-  author={Mai, Sijie and Han, Shiqin},
-  booktitle={CVPR},
-  year={2026}
+@InProceedings{Mai_2026_CVPR,
+    author    = {Mai, Sijie and Han, Shiqin},
+    title     = {CaReFlow: Cyclic Adaptive Rectified Flow for Multimodal Fusion},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {37799-37809}
 }
 ```
 
