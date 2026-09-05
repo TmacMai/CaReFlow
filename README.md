@@ -21,9 +21,12 @@ source (a/v)  --forward V_{m,l}-->  language-aligned feature --fusion--> predict
 ├── global_configs.py        #  see global_configs.py
 ├── modules/
 │   └── transformer.py       # TransformerEncoder (MulT-style)
-└── datasets/
-    ├── mosi.pkl             #
-    └── mosei.pkl            # 
+├── datasets/
+│   ├── mosi.pkl             #
+│   └── mosei.pkl            #
+└── microsoft/
+    ├── deberta-v3-base      #
+        ...                  # 
 ```
 
 
