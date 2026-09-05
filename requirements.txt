@@ -1,0 +1,8 @@
+torch>=1.13
+transformers>=4.30,<5.0
+sentencepiece>=0.1.97   # required by DebertaV2Tokenizer (microsoft/deberta-v3-base)
+scikit-learn>=1.1
+numpy>=1.21
+tqdm>=4.64
+# optional, only if you re-enable the (disabled) FLOPs profiling:
+# thop
